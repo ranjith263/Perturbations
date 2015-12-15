@@ -35,4 +35,8 @@ end
  figure(2)
  plot(t,xval(:,1),t,ifft(x)/(1-w^2),'o-')
  legend('x-val','x-fft')
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> refs/remotes/NLDV-project/master
